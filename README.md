@@ -6,6 +6,8 @@
 <h1 align="center">Awake 🐭🚀</h1>
 <h4 align="center">Keeping your machine alert and energized</h4>
 
+[![CodeQL](https://github.com/shrunbr/awake/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/shrunbr/awake/actions/workflows/github-code-scanning/codeql) ![GitHub License](https://img.shields.io/github/license/shrunbr/awake)
+
 Welcome to **Awake**! This isn't just any Python script—it's your computer's new best friend, ensuring it never drifts off to sleep. 
 
 ## What is Awake? 🤔
